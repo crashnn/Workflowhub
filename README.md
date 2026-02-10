@@ -58,9 +58,16 @@ WorkFlowHub, ekiplerin projeleri verimli bir şekilde yönetmesine yardımcı ol
 * **Authentication:** JSON Web Token (JWT).
 
 ---
+## ℹ️ Acknowledgements / Bilgilendirme
 
+**English:**
+This project was developed with the assistance of AI tools for code optimization, debugging, and documentation support.
+
+**Türkçe:**
+Bu proje; kod optimizasyonu, hata ayıklama ve dokümantasyon süreçlerinde Yapay Zeka araçlarından destek alınarak geliştirilmiştir.
+
+---
 ## 🚀 Installation / Kurulum
-
 Follow these steps to run the project locally. / Projeyi yerel makinenizde çalıştırmak için bu adımları izleyin.
 
 ### 1. Clone the repository / Depoyu klonlayın
