@@ -1,0 +1,3 @@
+PORT=5000
+MONGO_URI=your_mongodb_connection_string (Kendi MongoDB Atlas Linkiniz)
+JWT_SECRET=your_secret_key (Rastgele bir kelime)

@@ -12,7 +12,7 @@ import CalendarPage from './pages/CalendarPage';
 function App() {
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme');
-    // Eğer kayıtlı tema dark ise VEYA kayıt yoksa ama sistem tercihi dark ise
+    
     if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
       document.documentElement.classList.add('dark');
     } else {
